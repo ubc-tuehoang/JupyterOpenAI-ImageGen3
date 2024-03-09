@@ -11,4 +11,4 @@ Prompt: Generate an image depicting an engineering student deeply engaged in the
 
 ![Alt text](image-2.png)
 
-![Alt text](image-3.png)
+
